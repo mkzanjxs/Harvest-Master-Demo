@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harvest Master DEMO", "Harvest Master DEMO.csproj", "{5452BB9F-A6E9-792C-E5F1-CE9B1249E12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harvest Master DEMO.Editor", "Harvest Master DEMO.Editor.csproj", "{FA392AD1-5C45-6E51-0D36-9FB4BA7579FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5452BB9F-A6E9-792C-E5F1-CE9B1249E12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5452BB9F-A6E9-792C-E5F1-CE9B1249E12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5452BB9F-A6E9-792C-E5F1-CE9B1249E12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5452BB9F-A6E9-792C-E5F1-CE9B1249E12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA392AD1-5C45-6E51-0D36-9FB4BA7579FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA392AD1-5C45-6E51-0D36-9FB4BA7579FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA392AD1-5C45-6E51-0D36-9FB4BA7579FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA392AD1-5C45-6E51-0D36-9FB4BA7579FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
